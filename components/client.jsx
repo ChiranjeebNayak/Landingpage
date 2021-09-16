@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Clients() {
+function Client() {
     return (
         <>
-         <div className="container-fluid">
+         <div className="container-fluid" id="client">
              <div className="container">
                  <div className="row text-center mt-5 mb-5">
                     <span>OUR CLIENTS</span>
@@ -15,4 +15,4 @@ function Clients() {
     )
 }
 
-export default Clients
+export default Client

@@ -1,9 +1,9 @@
 import React from 'react'
 import styles from '../styles/Helllo.module.css'
-function Hello() {
+function About() {
     return (
         <>
-            <div className={`container-fluid ${styles.bggreen}`}>
+            <div className={`container-fluid ${styles.bggreen}`} id="about">
                 <div className="container" >
                     <div className="row text-center pt-4">
                         <span className={styles.subhead}>HELLO THERE</span>
@@ -43,4 +43,4 @@ function Hello() {
     )
 }
 
-export default Hello
+export default About

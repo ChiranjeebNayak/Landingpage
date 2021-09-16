@@ -5,7 +5,7 @@ import styles from "../styles/contact.module.css";
 function Contact() {
     return (
         <>
-            <div className={`container-fluid ${styles.bgblack} `}>
+            <div className={`container-fluid ${styles.bgblack} `} id="contact">
                 <div className="container mt-5">
                     <h5 className={styles.subhead}>CONTACT US</h5>
                     <h1 className={styles.head}>

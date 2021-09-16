@@ -1,0 +1,17 @@
+.navigation{
+    color: #39b54a;
+    font-size: 13px;
+    margin-left: 30px;
+}
+.navitems{
+    margin: 5vh 0;
+}
+.icon{
+    font-size: 2rem;
+    margin-right: 20px;
+    color: white;
+    cursor: pointer;
+}
+.icon :hover{
+    color: #39b54a;
+}

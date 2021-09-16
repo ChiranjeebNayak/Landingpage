@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Hero() {
+function Home() {
   return (
     <div>
-      <div className="container-fluid pt-5" style={{background:"black"}}>
+      <div className="container-fluid pt-5" style={{background:"black"}} id="home">
         <div className="row text-light mt-5">
           <div className=" col-lg-9 col-sm-12 px-5 mx-5 mt-5">
           <h5 className="text-muted" style={{letterSpacing:"2px"}}>WELCOME TO GLINT</h5>
@@ -24,4 +24,4 @@ function Hero() {
   )
 }
 
-export default Hero
+export default Home

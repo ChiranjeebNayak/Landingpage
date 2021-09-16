@@ -3,10 +3,10 @@ import styles from '../styles/work.module.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBrush, faBullhorn, faBus, faCalendar, faCube, faGlobe, faGlobeAsia, faVectorSquare } from '@fortawesome/free-solid-svg-icons'
 
-function Work() {
+function Service() {
     return (
         <>
-         <div className="container-fluid">
+         <div className="container-fluid" id="service">
              <div className="container text-center mt-5 mb-5 ">
                 <h5 className={styles.subhead}>WHAT WE DO</h5>
                 <h1 className={styles.head}>We’ve got everything you need to launch and grow your business</h1>
@@ -68,4 +68,4 @@ function Work() {
     )
 }
 
-export default Work
+export default Service
