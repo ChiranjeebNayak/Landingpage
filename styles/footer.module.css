@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@600&family=Montserrat:ital,wght@0,600;1,800&display=swap");
+
+.footer {
+  background: rgb(17 17 17);
+  color: grey;
+  text-align: left;
+}
+.layout {
+  padding: 2vh 8vw;
+}
+.logo {
+  margin: 4vh 0vw;
+  font-family: "Montserrat", sans-serif;
+  text-align: left;
+  color: #39b54a;
+}
+.desc {
+  font-size: 15px;
+  font-family: "Montserrat", sans-serif;
+}
+.title{
+    margin: 4vh 0vw;
+    font-family: "Montserrat", sans-serif;
+    text-align: left;
+    color: white;
+}
+.copyright{
+    text-align: center;
+    font-family:"Montserrat", sans-serif;
+    font-size: 15px;
+    margin: 4vh 0;
+}
+.brand{
+    color: white;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.input{
+    width: 78%;
+    height: 7vh;
+    padding: 1rem 100px 1rem 50px;
+    background: url(https://preview.colorlib.com/theme/glint/images/xemail-icon.png.pagespeed.ic.FQUrZtpwXv.webp) 20px center no-repeat , rgba(0,0,0,.1);
+    background-size: 24px 16px , auto;
+    border: none;
+    margin-bottom: 1.8rem;
+    color: rgba(255,255,255,.5);
+}
+.btn{
+    width: 22%;
+    height: 7vh;
+    color: #fff;
+    background: #39b54a;
+    border-color: #39b54a;
+    padding: 0 10px;
+}
