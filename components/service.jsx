@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from '../styles/work.module.css'
+import styles from '../styles/service.module.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBrush, faBullhorn, faBus, faCalendar, faCube, faGlobe, faGlobeAsia, faVectorSquare } from '@fortawesome/free-solid-svg-icons'
 

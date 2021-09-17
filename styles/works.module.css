@@ -1,0 +1,55 @@
+.work{
+    background-color: #111111;
+    font-family:"Montserrat", sans-serif;
+    min-height: 70vh;
+}
+.subhead {
+    padding-top: 10vh;
+    font-size: 1.2rem;
+    line-height: 1.333;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    color: #39b54a;
+  }
+  .head {
+    font-size: 3rem;
+    line-height: 1.255;
+    color: white;
+    margin: 0 15vw;
+  }
+  .underline{
+    border-bottom: 1px solid grey;
+    margin: 5vh 20vw;
+}
+.images{
+    margin-top: -25vh;
+    margin-left: 15vw;
+    width: 70vw;
+}
+.img1{
+  min-height: 60vh;
+}
+.img2{
+  min-height: 80vh;
+  margin-left: -1.5vw;
+}
+.img3{
+  min-height: 60vh;
+  margin-top: -10.2vw;
+}
+.img4{
+  min-height: 60vh;
+  margin-left: -1.5vw;
+  margin-top: -1vh;
+
+}
+.img5{
+  min-height: 80vh;
+  margin-top: -25vh;
+}
+.img6{
+  min-height: 59.6vh;
+  margin-left: -1.5vw;
+  margin-top: -1vh;
+}
+
